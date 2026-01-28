@@ -21,9 +21,9 @@ MealMajor also provides a weekly meal planner that allows users to assign recipe
 
 ## Sprint 1 Deliverables
 
-All deliverables for Sprint 1 can be found in the [sprint1_deliverables](./sprint1_deliverables) folder.
+All deliverables for Sprint 1 can be found in the [sprint1_deliverables](./sprint_1_deliverables) folder.
 
-- [Sprint Plan](./sprint1_deliverables/Sprint_Plan.md)
+- [Sprint Plan](./sprint_1_deliverables/Sprint_Plan.md)
 - Meeting Minutes
 - Activity Logs
 
